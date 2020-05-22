@@ -19,7 +19,7 @@
             android:src="@mipmap/ic_launcher"></ImageView>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/question"
             android:text="Your Location"
@@ -32,7 +32,7 @@
             android:layout_marginStart="10dp"></TextView>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Answer"
             android:id="@+id/response"
